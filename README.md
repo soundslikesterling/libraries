@@ -1,0 +1,2 @@
+# libraries
+Altium Libraries
