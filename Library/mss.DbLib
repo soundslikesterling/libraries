@@ -1,0 +1,232 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Matt Sterling\Documents\SVN_work_dir\Libraries\Data\mss_parts.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel 2007
+LibraryDatabasePath=C:\Users\Matt Sterling\Documents\SVN_work_dir\Libraries\Data\mss_parts.xlsx
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Transistors$
+[Table1]
+SchemaName=
+TableName=Capacitors$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=MakerBot Part Number0=140|Component Type0=110|Component Subtype0=129|RoHS Compliant0=107|Manufacturer 10=102|Manufacturer Part Number 10=169|Manufacturer 20=102|Manufacturer Part Number 20=169|Package0=65|Value0=52|Rated Voltage0=96|Tolerance0=72|ESR0=42|Composition0=89|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|Supplier 10=75|Supplier Part Number 10=142|Alt Supplier 10=92|Alt Supplier Part Number 10=159|Supplier 20=75|Supplier Part Number 20=142|Alt Supplier 20=92|Alt Supplier Part Number 20=159
+[Table2]
+SchemaName=
+TableName=Diodes$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=MakerBot Part Number0=140|Component Type0=110|Component Subtype0=129|RoHS Compliant0=107|Manufacturer 10=102|Manufacturer Part Number 10=169|Package0=65|Forward Current Rating0=145|Forward Voltage0=109|Reverse Current Rating0=141|Reverse / Zener Voltage (DC)0=168|Capacitance 0=88|Features0=67|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|Supplier 10=75|Supplier Part Number 10=142|Alt Supplier 10=92|Alt Supplier Part Number 10=159|Supplier 20=75|Supplier Part Number 20=142|Alt Supplier 20=92|Alt Supplier Part Number 20=159
+[Table3]
+SchemaName=
+TableName=Electromechanical$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=MakerBot Part Number0=140|Component Type0=110|Component Subtype0=129|RoHS Compliant0=107|Manufacturer 10=102|Manufacturer Part Number 10=169|Manufacturer 20=102|Manufacturer Part Number 20=169|Package0=93|Features0=184|Description0=160|Library Ref0=94|Library Path0=204|Footprint Ref0=92|Footprint Path0=98|Supplier 10=75|Supplier Part Number 10=142|Alt Supplier 10=92|Alt Supplier Part Number 10=159|Supplier 20=75|Supplier Part Number 20=142|Alt Supplier 20=92|Alt Supplier Part Number 20=159
+[Table4]
+SchemaName=
+TableName=ICs$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=MakerBot Part Number0=140|Component Type0=110|Component Subtype0=129|RoHS Compliant0=107|Manufacturer 10=102|Manufacturer Part Number 10=169|Manufacturer 20=105|Manufacturer Part Number 20=169|Operating Voltage0=119|Package0=65|Features0=274|Description0=364|Library Ref0=77|Library Path0=204|Footprint Ref0=92|Footprint Path0=161|Supplier 10=75|Supplier Part Number 10=142|Alt Supplier 10=92|Alt Supplier Part Number 10=159|Supplier 20=75|Supplier Part Number 20=142|Alt Supplier 20=92|Alt Supplier Part Number 20=159
+[Table5]
+SchemaName=
+TableName=Inductors$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=MakerBot Part Number0=140|Component Type0=110|Component Subtype0=129|RoHS Compliant0=107|Manufacturer 10=102|Manufacturer Part Number 10=169|Package0=65|Value0=52|Tolerance0=72|Max DC Resistance0=119|Current Rating0=99|Features0=67|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|Supplier 10=75|Supplier Part Number 10=142|Alt Supplier 10=92|Alt Supplier Part Number 10=159|Supplier 20=75|Supplier Part Number 20=142|Alt Supplier 20=92|Alt Supplier Part Number 20=159
+[Table6]
+SchemaName=
+TableName=LED$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=MakerBot Part Number0=140|Component Type0=110|Component Subtype0=129|RoHS Compliant0=107|Manufacturer 10=102|Manufacturer Part Number 10=169|Manufacturer 20=102|Manufacturer Part Number 20=169|Package0=65|Forward Voltage0=109|Wavelength0=85|Color0=51|Brightness0=78|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|Supplier 10=75|Supplier Part Number 10=142|Alt Supplier 10=92|Alt Supplier Part Number 10=159|Supplier 20=75|Supplier Part Number 20=142|Alt Supplier 20=92|Alt Supplier Part Number 20=159
+[Table7]
+SchemaName=
+TableName=Misc$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=MakerBot Part Number0=140|Component Type0=110|Component Subtype0=129|RoHS Compliant0=107|Manufacturer 10=102|Manufacturer Part Number 10=169|Manufacturer 20=102|Manufacturer Part Number 20=169|Package0=65|Features0=67|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|Supplier 10=75|Supplier Part Number 10=142|Alt Supplier 10=92|Alt Supplier Part Number 10=159|Supplier 20=75|Supplier Part Number 20=142|Alt Supplier 20=92|Alt Supplier Part Number 20=159
+[Table8]
+SchemaName=
+TableName=Resistors$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=MakerBot Part Number0=140|Component Type0=110|Component Subtype0=129|RoHS Compliant0=107|Manufacturer 10=102|Manufacturer Part Number 10=169|Manufacturer 20=102|Manufacturer Part Number 20=169|Package0=65|Value0=52|Tolerance0=72|Power0=55|Composition0=89|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|Supplier 10=75|Supplier Part Number 10=142|Alt Supplier 10=92|Alt Supplier Part Number 10=159|Supplier 20=75|Supplier Part Number 20=142|Alt Supplier 20=92|Alt Supplier Part Number 20=159
+[Table9]
+SchemaName=
+TableName=Timing$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=MakerBot Part Number0=140|Component Type0=110|Component Subtype0=129|RoHS Compliant0=107|Manufacturer 10=102|Manufacturer Part Number 10=169|Package0=65|Frequency0=76|Stability0=64|Tolerance0=72|Load Capacitance0=113|Features0=67|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|Supplier 10=75|Supplier Part Number 10=142|Alt Supplier 10=92|Alt Supplier Part Number 10=159|Supplier 20=75|Supplier Part Number 20=142|Alt Supplier 20=92|Alt Supplier Part Number 20=159
+[Table10]
+SchemaName=
+TableName=Transistors$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=MakerBot Part Number0=140|Component Type0=110|Component Subtype0=129|RoHS Compliant0=107|Manufacturer 10=102|Manufacturer Part Number 10=169|Package0=65|Ic0=31|Id0=33|Ptot0=44|Qg0=39|Cin0=40|Vceo0=48|Vds(max)0=68|Vbe(sat)0=64|Vgs(th)0=59|Vebo0=50|Vgs(max)0=68|Rds On0=61|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|Supplier 10=75|Supplier Part Number 10=142|Alt Supplier 10=92|Alt Supplier Part Number 10=159|Supplier 20=75|Supplier Part Number 20=142|Alt Supplier 20=92|Alt Supplier Part Number 20=159
+[FieldMap1]
+Options=FieldName=Capacitors$.MakerBot Part Number|TableNameOnly=Capacitors$|FieldNameOnly=MakerBot Part Number|FieldType=0|ParameterName=MakerBot Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Capacitors$.Description|TableNameOnly=Capacitors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Capacitors$.Library Ref|TableNameOnly=Capacitors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Capacitors$.Library Path|TableNameOnly=Capacitors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Capacitors$.Footprint Ref|TableNameOnly=Capacitors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Capacitors$.Footprint Path|TableNameOnly=Capacitors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Diodes$.MakerBot Part Number|TableNameOnly=Diodes$|FieldNameOnly=MakerBot Part Number|FieldType=0|ParameterName=MakerBot Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Diodes$.Description|TableNameOnly=Diodes$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Diodes$.Library Ref|TableNameOnly=Diodes$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Diodes$.Library Path|TableNameOnly=Diodes$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Diodes$.Footprint Ref|TableNameOnly=Diodes$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Diodes$.Footprint Path|TableNameOnly=Diodes$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Electromechanical$.MakerBot Part Number|TableNameOnly=Electromechanical$|FieldNameOnly=MakerBot Part Number|FieldType=0|ParameterName=MakerBot Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Electromechanical$.Description|TableNameOnly=Electromechanical$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Electromechanical$.Library Ref|TableNameOnly=Electromechanical$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Electromechanical$.Library Path|TableNameOnly=Electromechanical$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Electromechanical$.Footprint Ref|TableNameOnly=Electromechanical$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=Electromechanical$.Footprint Path|TableNameOnly=Electromechanical$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=ICs$.MakerBot Part Number|TableNameOnly=ICs$|FieldNameOnly=MakerBot Part Number|FieldType=0|ParameterName=MakerBot Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=ICs$.Description|TableNameOnly=ICs$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=ICs$.Library Ref|TableNameOnly=ICs$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=ICs$.Library Path|TableNameOnly=ICs$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=ICs$.Footprint Ref|TableNameOnly=ICs$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=ICs$.Footprint Path|TableNameOnly=ICs$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=Inductors$.MakerBot Part Number|TableNameOnly=Inductors$|FieldNameOnly=MakerBot Part Number|FieldType=0|ParameterName=MakerBot Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=Inductors$.Description|TableNameOnly=Inductors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=Inductors$.Library Ref|TableNameOnly=Inductors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=Inductors$.Library Path|TableNameOnly=Inductors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=Inductors$.Footprint Ref|TableNameOnly=Inductors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=Inductors$.Footprint Path|TableNameOnly=Inductors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=LED$.MakerBot Part Number|TableNameOnly=LED$|FieldNameOnly=MakerBot Part Number|FieldType=0|ParameterName=MakerBot Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=LED$.Description|TableNameOnly=LED$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=LED$.Library Ref|TableNameOnly=LED$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=LED$.Library Path|TableNameOnly=LED$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=LED$.Footprint Ref|TableNameOnly=LED$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=LED$.Footprint Path|TableNameOnly=LED$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=Misc$.MakerBot Part Number|TableNameOnly=Misc$|FieldNameOnly=MakerBot Part Number|FieldType=0|ParameterName=MakerBot Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=Misc$.Description|TableNameOnly=Misc$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=Misc$.Library Ref|TableNameOnly=Misc$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=Misc$.Library Path|TableNameOnly=Misc$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=Misc$.Footprint Ref|TableNameOnly=Misc$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=Misc$.Footprint Path|TableNameOnly=Misc$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=Resistors$.MakerBot Part Number|TableNameOnly=Resistors$|FieldNameOnly=MakerBot Part Number|FieldType=0|ParameterName=MakerBot Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=Resistors$.Description|TableNameOnly=Resistors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=Resistors$.Library Ref|TableNameOnly=Resistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=Resistors$.Library Path|TableNameOnly=Resistors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=Resistors$.Footprint Ref|TableNameOnly=Resistors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=Resistors$.Footprint Path|TableNameOnly=Resistors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=Timing$.MakerBot Part Number|TableNameOnly=Timing$|FieldNameOnly=MakerBot Part Number|FieldType=0|ParameterName=MakerBot Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=Timing$.Description|TableNameOnly=Timing$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=Timing$.Library Ref|TableNameOnly=Timing$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=Timing$.Library Path|TableNameOnly=Timing$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=Timing$.Footprint Ref|TableNameOnly=Timing$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=Timing$.Footprint Path|TableNameOnly=Timing$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=Transistors$.MakerBot Part Number|TableNameOnly=Transistors$|FieldNameOnly=MakerBot Part Number|FieldType=0|ParameterName=MakerBot Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=Transistors$.Description|TableNameOnly=Transistors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=Transistors$.Library Ref|TableNameOnly=Transistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=Transistors$.Library Path|TableNameOnly=Transistors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=Transistors$.Footprint Ref|TableNameOnly=Transistors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=Transistors$.Footprint Path|TableNameOnly=Transistors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
