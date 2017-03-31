@@ -1,0 +1,103 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matt.sterling\Documents\MSS\library\trunk\Data\Magnetics.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel 2007
+LibraryDatabasePath=C:\Users\matt.sterling\Documents\MSS\library\trunk\Data\Magnetics.xlsx
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Transformers$
+[Table1]
+SchemaName=
+TableName=Chokes$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=Ferrites$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Type0=46|Value0=52|Description0=82|Library Ref0=77|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Verified0=63|Manufacturer 10=102|Manufacturer Part Number 10=169|Manufacturer 20=102|Manufacturer Part Number 20=169|Manufacturer 30=102|Manufacturer Part Number 30=169|F160=41|F170=41|F180=41|F190=41|F200=41|F210=41|F220=41|F230=41|F240=41|F250=41|F260=41|F270=41
+[Table3]
+SchemaName=
+TableName=Inductors$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Type0=46|Value0=52|Description0=82|Library Ref0=77|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Verified0=63|Manufacturer 10=102|Manufacturer Part Number 10=169|Manufacturer 20=102|Manufacturer Part Number 20=169|Manufacturer 30=102|Manufacturer Part Number 30=169|F160=41|F170=41|F180=41|F190=41|F200=41|F210=41|F220=41|F230=41|F240=41|F250=41|F260=41|F270=41
+[Table4]
+SchemaName=
+TableName=Transformers$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Type0=104|Power0=55|Primary0=60|Secondary0=76|Mounting0=75|Description0=322|Library Ref0=129|Library Path0=151|Footprint Ref0=93|Footprint Path0=130|Verified0=63|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|HelpURL0=67|Manufacturer 20=102|Manufacturer Part Number 20=169|F200=41|F210=41|F220=41|F230=41|F240=41|F250=41|F260=41
+[FieldMap1]
+Options=FieldName=Chokes$.Local Part Number|TableNameOnly=Chokes$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Chokes$.Description|TableNameOnly=Chokes$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Chokes$.Library Ref|TableNameOnly=Chokes$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Chokes$.Library Path|TableNameOnly=Chokes$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Chokes$.Footprint Ref|TableNameOnly=Chokes$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Chokes$.Footprint Path|TableNameOnly=Chokes$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Ferrites$.Local Part Number|TableNameOnly=Ferrites$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Ferrites$.Description|TableNameOnly=Ferrites$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Ferrites$.Library Ref|TableNameOnly=Ferrites$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Ferrites$.Library Path|TableNameOnly=Ferrites$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Ferrites$.Footprint Ref|TableNameOnly=Ferrites$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Ferrites$.Footprint Path|TableNameOnly=Ferrites$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Inductors$.Local Part Number|TableNameOnly=Inductors$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Inductors$.Description|TableNameOnly=Inductors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Inductors$.Library Ref|TableNameOnly=Inductors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Inductors$.Library Path|TableNameOnly=Inductors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Inductors$.Footprint Ref|TableNameOnly=Inductors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=Inductors$.Footprint Path|TableNameOnly=Inductors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=Transformers$.Local Part Number|TableNameOnly=Transformers$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=Transformers$.Description|TableNameOnly=Transformers$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=Transformers$.Library Ref|TableNameOnly=Transformers$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=Transformers$.Library Path|TableNameOnly=Transformers$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=Transformers$.Footprint Ref|TableNameOnly=Transformers$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=Transformers$.Footprint Path|TableNameOnly=Transformers$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

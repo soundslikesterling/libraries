@@ -5,15 +5,15 @@ ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matt.ste
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Excel 2007
-LibraryDatabasePath=C:\Users\matt.sterling\Documents\MSS\library\trunk\Data\Capacitors.xlsx
-DatabasePathRelative=0
+LibraryDatabasePath=..\Data\Capacitors.xlsx
+DatabasePathRelative=1
 TopPanelCollapsed=0
 LibrarySearchPath=
 OrcadMultiValueDelimiter=,
@@ -26,6 +26,9 @@ TableName=Ceramic-0402$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Description0=279|Library Ref0=77|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Component Type0=110|Component Subtype0=129|Package0=65|Value0=52|Rated Voltage0=96|Tolerance0=72|Composition0=89|Manufacturer 10=103|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=103|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=143
 [Table2]
 SchemaName=
 TableName=Ceramic-0603$
@@ -34,7 +37,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Local Part Number0=116|Component Type0=110|Component Subtype0=129|Package0=65|Value0=52|Rated Voltage0=96|Tolerance0=72|Composition0=89|Description0=279|Library Ref0=77|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=103|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=103|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
+BrowserOrder_Visible=Local Part Number0=116|Description0=279|Library Ref0=77|Footprint Ref0=92|Footprint Path0=130|Library Path0=151|Component Type0=110|Component Subtype0=129|Package0=65|Value0=52|Rated Voltage0=96|Tolerance0=72|Composition0=89|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=103|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=103|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
 [Table3]
 SchemaName=
 TableName=Ceramic-0805$
@@ -43,17 +46,8 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Local Part Number0=116|Component Type0=110|Component Subtype0=129|Package0=65|Value0=52|Rated Voltage0=96|Tolerance0=72|Composition0=89|Description0=279|Library Ref0=77|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
+BrowserOrder_Visible=Local Part Number0=116|Description0=279|Library Ref0=77|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Component Type0=110|Component Subtype0=129|Package0=65|Value0=52|Rated Voltage0=96|Tolerance0=72|Composition0=89|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
 [Table4]
-SchemaName=
-TableName=Electrolytic-PTH$
-Enabled=True
-UserWhere=0
-UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Local Part Number0=116|Component Type0=110|Component Subtype0=129|Package0=65|Value0=52|Rated Voltage0=96|Tolerance0=72|Composition0=89|Description0=82|Library Ref0=77|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
-[Table5]
 SchemaName=
 TableName=Electrolytic-SMT$
 Enabled=True
@@ -62,7 +56,7 @@ UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
 BrowserOrder_Visible=Local Part Number0=116|Component Type0=110|Component Subtype0=129|Package0=142|Value0=52|Rated Voltage0=96|Tolerance0=72|Composition0=89|Description0=405|Library Ref0=107|Library Path0=151|Footprint Ref0=98|Footprint Path0=130|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
-[Table6]
+[Table5]
 SchemaName=
 TableName=Film-PTH$
 Enabled=True
@@ -71,7 +65,7 @@ UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
 BrowserOrder_Visible=Local Part Number0=116|Component Type0=110|Component Subtype0=129|Package0=99|Value0=52|Rated Voltage0=96|Tolerance0=72|Composition0=89|Description0=375|Library Ref0=77|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142
-[Table7]
+[Table6]
 SchemaName=
 TableName=Film-SMT$
 Enabled=True
@@ -103,56 +97,52 @@ Options=FieldName=Ceramic-0603$.Footprint Ref|TableNameOnly=Ceramic-0603$|FieldN
 [FieldMap11]
 Options=FieldName=Ceramic-0603$.Footprint Path|TableNameOnly=Ceramic-0603$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap12]
-Options=FieldName=Ceramic-0805$.Local Part Number|TableNameOnly=Ceramic-0805$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Ceramic-0603$.Library Path|TableNameOnly=Ceramic-0603$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap13]
-Options=FieldName=Ceramic-0805$.Description|TableNameOnly=Ceramic-0805$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Ceramic-0805$.Local Part Number|TableNameOnly=Ceramic-0805$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap14]
-Options=FieldName=Ceramic-0805$.Library Ref|TableNameOnly=Ceramic-0805$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Ceramic-0805$.Description|TableNameOnly=Ceramic-0805$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap15]
-Options=FieldName=Ceramic-0805$.Library Path|TableNameOnly=Ceramic-0805$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Ceramic-0805$.Library Ref|TableNameOnly=Ceramic-0805$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap16]
-Options=FieldName=Ceramic-0805$.Footprint Ref|TableNameOnly=Ceramic-0805$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Ceramic-0805$.Library Path|TableNameOnly=Ceramic-0805$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap17]
-Options=FieldName=Ceramic-0805$.Footprint Path|TableNameOnly=Ceramic-0805$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Ceramic-0805$.Footprint Ref|TableNameOnly=Ceramic-0805$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap18]
-Options=FieldName=Electrolytic-PTH$.Local Part Number|TableNameOnly=Electrolytic-PTH$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Ceramic-0805$.Footprint Path|TableNameOnly=Ceramic-0805$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap19]
-Options=FieldName=Electrolytic-PTH$.Description|TableNameOnly=Electrolytic-PTH$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap20]
-Options=FieldName=Electrolytic-PTH$.Library Ref|TableNameOnly=Electrolytic-PTH$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap21]
-Options=FieldName=Electrolytic-PTH$.Library Path|TableNameOnly=Electrolytic-PTH$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap22]
-Options=FieldName=Electrolytic-PTH$.Footprint Ref|TableNameOnly=Electrolytic-PTH$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap23]
-Options=FieldName=Electrolytic-PTH$.Footprint Path|TableNameOnly=Electrolytic-PTH$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap24]
 Options=FieldName=Electrolytic-SMT$.Local Part Number|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap25]
+[FieldMap20]
 Options=FieldName=Electrolytic-SMT$.Description|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap26]
+[FieldMap21]
 Options=FieldName=Electrolytic-SMT$.Library Ref|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap27]
+[FieldMap22]
+Options=FieldName=Electrolytic-SMT$.Library Path|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
 Options=FieldName=Electrolytic-SMT$.Footprint Ref|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap28]
+[FieldMap24]
 Options=FieldName=Electrolytic-SMT$.Footprint Path|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap29]
+[FieldMap25]
 Options=FieldName=Film-PTH$.Local Part Number|TableNameOnly=Film-PTH$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap30]
+[FieldMap26]
 Options=FieldName=Film-PTH$.Description|TableNameOnly=Film-PTH$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap31]
+[FieldMap27]
 Options=FieldName=Film-PTH$.Library Ref|TableNameOnly=Film-PTH$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap32]
+[FieldMap28]
+Options=FieldName=Film-PTH$.Library Path|TableNameOnly=Film-PTH$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
 Options=FieldName=Film-PTH$.Footprint Ref|TableNameOnly=Film-PTH$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap33]
+[FieldMap30]
 Options=FieldName=Film-PTH$.Footprint Path|TableNameOnly=Film-PTH$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap34]
+[FieldMap31]
 Options=FieldName=Film-SMT$.Local Part Number|TableNameOnly=Film-SMT$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap35]
+[FieldMap32]
 Options=FieldName=Film-SMT$.Description|TableNameOnly=Film-SMT$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap36]
+[FieldMap33]
 Options=FieldName=Film-SMT$.Library Ref|TableNameOnly=Film-SMT$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap37]
+[FieldMap34]
+Options=FieldName=Film-SMT$.Library Path|TableNameOnly=Film-SMT$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
 Options=FieldName=Film-SMT$.Footprint Ref|TableNameOnly=Film-SMT$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap38]
+[FieldMap36]
 Options=FieldName=Film-SMT$.Footprint Path|TableNameOnly=Film-SMT$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

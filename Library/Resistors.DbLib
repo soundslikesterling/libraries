@@ -26,6 +26,9 @@ TableName=PTH-Carbon Film 5%$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Description0=82|Library Ref0=77|Footprint Ref0=92|Footprint Path0=130|Library Path0=151|Component Type0=110|Package0=65|Value0=52|Tolerance0=72|Power0=55|Composition0=89|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
 [Table2]
 SchemaName=
 TableName=PTH-Metal Film 1%$
@@ -43,7 +46,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Local Part Number0=116|Component Type0=110|Package0=65|Value0=52|Tolerance0=72|Power0=55|Composition0=89|Description0=189|Library Ref0=77|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=116|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
+BrowserOrder_Visible=Local Part Number0=116|Description0=189|Library Ref0=77|Footprint Ref0=92|Footprint Path0=130|Library Path0=151|Component Type0=110|Package0=65|Value0=52|Tolerance0=72|Power0=55|Composition0=89|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=116|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
 [Table4]
 SchemaName=
 TableName=ThickFilm-0603$
@@ -52,7 +55,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Local Part Number0=116|Component Type0=110|Package0=65|Value0=52|Tolerance0=72|Power0=55|Composition0=89|Description0=189|Library Ref0=77|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=116|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
+BrowserOrder_Visible=Local Part Number0=116|Description0=189|Library Ref0=77|Footprint Ref0=92|Footprint Path0=130|Library Path0=151|Component Type0=110|Package0=65|Value0=52|Tolerance0=72|Power0=55|Composition0=89|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=116|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
 [FieldMap1]
 Options=FieldName=PTH-Carbon Film 5%$.Local Part Number|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -64,32 +67,40 @@ Options=FieldName=PTH-Carbon Film 5%$.Footprint Ref|TableNameOnly=PTH-Carbon Fil
 [FieldMap5]
 Options=FieldName=PTH-Carbon Film 5%$.Footprint Path|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap6]
-Options=FieldName=PTH-Metal Film 1%$.Local Part Number|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Carbon Film 5%$.Library Path|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap7]
-Options=FieldName=PTH-Metal Film 1%$.Description|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Metal Film 1%$.Local Part Number|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap8]
-Options=FieldName=PTH-Metal Film 1%$.Library Ref|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Metal Film 1%$.Description|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap9]
-Options=FieldName=PTH-Metal Film 1%$.Footprint Ref|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Metal Film 1%$.Library Ref|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap10]
-Options=FieldName=PTH-Metal Film 1%$.Footprint Path|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Metal Film 1%$.Library Path|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap11]
-Options=FieldName=ThickFilm-0402$.Local Part Number|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Metal Film 1%$.Footprint Ref|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap12]
-Options=FieldName=ThickFilm-0402$.Description|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Metal Film 1%$.Footprint Path|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap13]
-Options=FieldName=ThickFilm-0402$.Library Ref|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=ThickFilm-0402$.Local Part Number|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap14]
-Options=FieldName=ThickFilm-0402$.Footprint Ref|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=ThickFilm-0402$.Description|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap15]
-Options=FieldName=ThickFilm-0402$.Footprint Path|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=ThickFilm-0402$.Library Ref|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap16]
-Options=FieldName=ThickFilm-0603$.Local Part Number|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=ThickFilm-0402$.Footprint Ref|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap17]
-Options=FieldName=ThickFilm-0603$.Description|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=ThickFilm-0402$.Footprint Path|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap18]
-Options=FieldName=ThickFilm-0603$.Library Ref|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=ThickFilm-0402$.Library Path|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap19]
-Options=FieldName=ThickFilm-0603$.Footprint Ref|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=ThickFilm-0603$.Local Part Number|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap20]
+Options=FieldName=ThickFilm-0603$.Description|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=ThickFilm-0603$.Library Ref|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=ThickFilm-0603$.Footprint Ref|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
 Options=FieldName=ThickFilm-0603$.Footprint Path|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=ThickFilm-0603$.Library Path|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
