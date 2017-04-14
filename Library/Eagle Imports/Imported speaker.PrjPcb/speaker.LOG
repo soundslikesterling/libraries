@@ -1,0 +1,101 @@
+Importer Log Report
+Project : Group
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\solpad.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\solpad.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 8
+    Load Symbols 1
+    Load DeviceSets 8
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\speaker.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\speaker.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\special.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\special.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 77
+    Load Symbols 23
+    Load DeviceSets 27
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\supply1.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\supply1.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 0
+    Load Symbols 29
+    Load DeviceSets 28
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\supply2.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\supply2.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 48
+    Load DeviceSets 48
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\switch.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\switch.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 92
+    Load Symbols 54
+    Load DeviceSets 93
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\testpad.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\testpad.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 42
+    Load Symbols 4
+    Load DeviceSets 8
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\texas.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\texas.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 124
+    Load Symbols 195
+    Load DeviceSets 132
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\trafo.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\trafo.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 80
+    Load Symbols 18
+    Load DeviceSets 80
+EndSection

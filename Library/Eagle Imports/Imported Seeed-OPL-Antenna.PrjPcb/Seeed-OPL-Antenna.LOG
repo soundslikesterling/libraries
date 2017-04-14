@@ -1,0 +1,178 @@
+Importer Log Report
+Project : Group
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Antenna.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Antenna.lbr
+    Load settings
+    Load layers 148
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 5
+    Load DeviceSets 7
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Button.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Button.lbr
+    Load settings
+    Load layers 146
+    Load Library library
+    Load Library ""
+    Load Packages 15
+    Load Symbols 6
+    Load DeviceSets 9
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Capacitor.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Capacitor.lbr
+    Load settings
+    Load layers 145
+    Load Library library
+    Load Library ""
+    Load Packages 31
+    Load Symbols 2
+    Load DeviceSets 149
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Connector.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Connector.lbr
+    Load settings
+    Load layers 148
+    Load Library library
+    Load Library ""
+    Load Packages 183
+    Load Symbols 84
+    Load DeviceSets 227
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Crystal-Oscillator.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Crystal-Oscillator.lbr
+    Load settings
+    Load layers 148
+    Load Library library
+    Load Library ""
+    Load Packages 41
+    Load Symbols 10
+    Load DeviceSets 35
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Diode.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Diode.lbr
+    Load settings
+    Load layers 146
+    Load Library library
+    Load Library ""
+    Load Packages 38
+    Load Symbols 10
+    Load DeviceSets 82
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Display.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Display.lbr
+    Load settings
+    Load layers 148
+    Load Library library
+    Load Library ""
+    Load Packages 11
+    Load Symbols 7
+    Load DeviceSets 7
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-fuse.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-fuse.lbr
+    Load settings
+    Load layers 145
+    Load Library library
+    Load Library ""
+    Load Packages 10
+    Load Symbols 1
+    Load DeviceSets 13
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-ic.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-ic.lbr
+    Load settings
+    Load layers 148
+    Load Library library
+    Load Library ""
+    Load Packages 95
+    Load Symbols 194
+    Load DeviceSets 210
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Inductor.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Inductor.lbr
+    Load settings
+    Load layers 148
+    Load Library library
+    Load Library ""
+    Load Packages 25
+    Load Symbols 18
+    Load DeviceSets 36
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Moudle.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Moudle.lbr
+    Load settings
+    Load layers 148
+    Load Library library
+    Load Library ""
+    Load Packages 18
+    Load Symbols 18
+    Load DeviceSets 18
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Relay.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Relay.lbr
+    Load settings
+    Load layers 148
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 4
+    Load DeviceSets 5
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Resistor.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Resistor.lbr
+    Load settings
+    Load layers 145
+    Load Library library
+    Load Library ""
+    Load Packages 55
+    Load Symbols 10
+    Load DeviceSets 292
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-sensor.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-sensor.lbr
+    Load settings
+    Load layers 148
+    Load Library library
+    Load Library ""
+    Load Packages 57
+    Load Symbols 58
+    Load DeviceSets 54
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Switch.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Switch.lbr
+    Load settings
+    Load layers 148
+    Load Library library
+    Load Library ""
+    Load Packages 31
+    Load Symbols 12
+    Load DeviceSets 25
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Transistor.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\Seeed\Seeed-OPL-Transistor.lbr
+    Load settings
+    Load layers 148
+    Load Library library
+    Load Library ""
+    Load Packages 13
+    Load Symbols 7
+    Load DeviceSets 33
+EndSection

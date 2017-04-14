@@ -1,0 +1,178 @@
+Importer Log Report
+Project : Group
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\capmeter.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\capmeter.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\Comparators.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\Comparators.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 0
+    Load Symbols 35
+    Load DeviceSets 35
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\Digital.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\Digital.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 15
+    Load DeviceSets 15
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\diode.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\diode.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\FilterProducts.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\FilterProducts.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 0
+    Load Symbols 18
+    Load DeviceSets 18
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\lt-spice-simulation.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\lt-spice-simulation.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 0
+    Load Symbols 18
+    Load DeviceSets 18
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\lt-supply.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\lt-supply.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 0
+    Load Symbols 6
+    Load DeviceSets 6
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\Misc.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\Misc.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 8
+    Load Symbols 29
+    Load DeviceSets 30
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\Opamps.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\Opamps.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 372
+    Load DeviceSets 372
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\Optos.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\Optos.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 0
+    Load Symbols 15
+    Load DeviceSets 15
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\PAsystem.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\PAsystem.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 8
+    Load Symbols 13
+    Load DeviceSets 13
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\PowerProducts.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\PowerProducts.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 166
+    Load Symbols 438
+    Load DeviceSets 437
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\References.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\References.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 0
+    Load Symbols 8
+    Load DeviceSets 8
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\rload.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\rload.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\SpecialFunctions.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\SpecialFunctions.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 70
+    Load DeviceSets 70
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\sym.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\LTSPICE\sym.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 9
+    Load Symbols 32
+    Load DeviceSets 32
+EndSection

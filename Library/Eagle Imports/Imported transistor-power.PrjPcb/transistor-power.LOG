@@ -1,0 +1,200 @@
+Importer Log Report
+Project : Group
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\trafo-hammondmfg.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\trafo-hammondmfg.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 17
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\transistor.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\transistor.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 58
+    Load Symbols 13
+    Load DeviceSets 146
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\transistor-fet.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\transistor-fet.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 45
+    Load Symbols 22
+    Load DeviceSets 96
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\transistor-neu-to92.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\transistor-neu-to92.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 57
+    Load Symbols 19
+    Load DeviceSets 140
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\transistor-npn.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\transistor-npn.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 49
+    Load Symbols 7
+    Load DeviceSets 174
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\transistor-pnp.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\transistor-pnp.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 37
+    Load Symbols 3
+    Load DeviceSets 139
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\transistor-power.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\transistor-power.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 90
+    Load Symbols 27
+    Load DeviceSets 80
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\transistor-small-signal.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\transistor-small-signal.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 107
+    Load Symbols 16
+    Load DeviceSets 62
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\varistor.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\varistor.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 90
+    Load Symbols 3
+    Load DeviceSets 80
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\v-reg.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\v-reg.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 52
+    Load Symbols 13
+    Load DeviceSets 42
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\wirepad.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\wirepad.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 18
+    Load Symbols 2
+    Load DeviceSets 16
+EndSection
+
+Section : Import Document - C:\EAGLE 8.1.0\lbr\To Import\transistor.lbr
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+EndSection
+
+Section : Import Document - C:\EAGLE 8.1.0\lbr\To Import\transistor-fet.lbr
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+EndSection
+
+Section : Import Document - C:\EAGLE 8.1.0\lbr\To Import\transistor-neu-to92.lbr
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+EndSection
+
+Section : Import Document - C:\EAGLE 8.1.0\lbr\To Import\transistor-npn.lbr
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+EndSection
+
+Section : Import Document - C:\EAGLE 8.1.0\lbr\To Import\transistor-pnp.lbr
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+EndSection
+
+Section : Import Document - C:\EAGLE 8.1.0\lbr\To Import\transistor-power.lbr
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+    Circles with holes do not supported for rooms!
+EndSection

@@ -1,0 +1,123 @@
+Importer Log Report
+Project : Group
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\analog-devices.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\analog-devices.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 79
+    Load Symbols 139
+    Load DeviceSets 164
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\battery.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\battery.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 43
+    Load Symbols 21
+    Load DeviceSets 62
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\burr-brown.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\burr-brown.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 61
+    Load Symbols 156
+    Load DeviceSets 198
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\buzzer.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\buzzer.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 39
+    Load Symbols 6
+    Load DeviceSets 36
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\capacitor-wima.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\capacitor-wima.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 45
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\diode.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\diode.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 206
+    Load Symbols 39
+    Load DeviceSets 205
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\discrete.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\discrete.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 6
+    Load Symbols 4
+    Load DeviceSets 4
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\ftdichip.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\ftdichip.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 6
+    Load Symbols 4
+    Load DeviceSets 4
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\fuse.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\fuse.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 27
+    Load Symbols 2
+    Load DeviceSets 24
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\heatsink.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\heatsink.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 35
+    Load Symbols 5
+    Load DeviceSets 34
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\ic-package.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\ic-package.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 75
+    Load Symbols 26
+    Load DeviceSets 26
+EndSection

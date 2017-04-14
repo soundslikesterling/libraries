@@ -1,0 +1,79 @@
+Importer Log Report
+Project : Group
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\74ac-logic.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\74ac-logic.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 21
+    Load Symbols 79
+    Load DeviceSets 71
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\74ttl-din.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\74ttl-din.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 5
+    Load Symbols 199
+    Load DeviceSets 165
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\74xx-eu.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\74xx-eu.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 28
+    Load Symbols 350
+    Load DeviceSets 332
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\74xx-little-de.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\74xx-little-de.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 22
+    Load Symbols 21
+    Load DeviceSets 22
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\74xx-little-us.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\74xx-little-us.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 17
+    Load Symbols 21
+    Load DeviceSets 22
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\74xx-us.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\74xx-us.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 32
+    Load Symbols 364
+    Load DeviceSets 329
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\751xx.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\751xx.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 9
+    Load Symbols 14
+    Load DeviceSets 13
+EndSection

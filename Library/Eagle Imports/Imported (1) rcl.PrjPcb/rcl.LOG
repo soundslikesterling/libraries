@@ -1,0 +1,123 @@
+Importer Log Report
+Project : Group
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\rcl.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\rcl.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 487
+    Load Symbols 12
+    Load DeviceSets 14
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\ref-packages.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\ref-packages.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1543
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\relay.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\relay.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 291
+    Load Symbols 59
+    Load DeviceSets 264
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\resistor.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\resistor.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 427
+    Load Symbols 15
+    Load DeviceSets 13
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\resistor-bourns.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\resistor-bourns.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 7
+    Load Symbols 12
+    Load DeviceSets 20
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\resistor-dil.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\resistor-dil.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 22
+    Load Symbols 8
+    Load DeviceSets 14
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\resistor-net.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\resistor-net.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 12
+    Load Symbols 15
+    Load DeviceSets 19
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\resistor-power.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\resistor-power.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 89
+    Load Symbols 1
+    Load DeviceSets 2
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\resistor-ruf.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\resistor-ruf.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\resistor-shunt.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\resistor-shunt.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 14
+    Load Symbols 2
+    Load DeviceSets 13
+EndSection
+
+Section : Analyze Document - C:\EAGLE 8.1.0\lbr\To Import\resistor-sil.lbr
+    Analyzing data of C:\EAGLE 8.1.0\lbr\To Import\resistor-sil.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 11
+    Load Symbols 30
+    Load DeviceSets 57
+EndSection
