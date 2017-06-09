@@ -1,0 +1,106 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matt.sterling\Documents\MSS\library\trunk\Data\Semiconductors.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel 2007
+LibraryDatabasePath=C:\Users\matt.sterling\Documents\MSS\library\trunk\Data\Semiconductors.xlsx
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=MOSFET$
+[Table1]
+SchemaName=
+TableName=BJT$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Type0=89|Model0=56|Parameters0=294|Description0=353|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|Verified0=63|Manufacturer 10=102|Manufacturer Part Number 10=169|Manufacturer 20=102|Manufacturer Part Number 20=169|Manufacturer 30=102|Manufacturer Part Number 30=169
+[Table2]
+SchemaName=
+TableName=Diodes$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Type0=84|Package0=65|Forward Current Rating0=145|Forward Voltage0=109|Reverse Current Rating0=141|Reverse or Zener Voltage0=151|Capacitance0=85|Features0=67|Description0=239|Library Ref0=77|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Verified0=63|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Manufacturer 30=102|Manufacturer Part Number 30=169|F240=41|F250=41|F260=41|F270=41|F280=41|F290=41|F300=41|F310=41|F320=41|F330=41|F340=41|F350=41
+[Table3]
+SchemaName=
+TableName=JFET$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Type0=46|Model0=63|Parameters0=240|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|Verified0=63|Manufacturer 10=102|Manufacturer Part Number 10=169|Manufacturer 20=102|Manufacturer Part Number 20=169|Manufacturer 30=102|Manufacturer Part Number 30=169
+[Table4]
+SchemaName=
+TableName=MOSFET$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Type0=50|Model0=56|Parameters0=303|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|Verified0=63|Manufacturer 10=102|Manufacturer Part Number 10=169|Manufacturer 20=102|Manufacturer Part Number 20=169|Manufacturer 30=102|Manufacturer Part Number 30=169
+[FieldMap1]
+Options=FieldName=BJT$.Part Number|TableNameOnly=BJT$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=BJT$.Description|TableNameOnly=BJT$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=BJT$.Library Ref|TableNameOnly=BJT$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=BJT$.Library Path|TableNameOnly=BJT$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=BJT$.Footprint Ref|TableNameOnly=BJT$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=BJT$.Footprint Path|TableNameOnly=BJT$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Diodes$.Part Number|TableNameOnly=Diodes$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Diodes$.Description|TableNameOnly=Diodes$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Diodes$.Library Ref|TableNameOnly=Diodes$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Diodes$.Library Path|TableNameOnly=Diodes$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Diodes$.Footprint Ref|TableNameOnly=Diodes$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Diodes$.Footprint Path|TableNameOnly=Diodes$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=JFET$.Part Number|TableNameOnly=JFET$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=JFET$.Description|TableNameOnly=JFET$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=JFET$.Library Ref|TableNameOnly=JFET$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=JFET$.Library Path|TableNameOnly=JFET$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=JFET$.Footprint Ref|TableNameOnly=JFET$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=JFET$.Footprint Path|TableNameOnly=JFET$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=MOSFET$.Part Number|TableNameOnly=MOSFET$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=MOSFET$.Description|TableNameOnly=MOSFET$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=MOSFET$.Library Ref|TableNameOnly=MOSFET$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=MOSFET$.Library Path|TableNameOnly=MOSFET$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=MOSFET$.Footprint Ref|TableNameOnly=MOSFET$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=MOSFET$.Footprint Path|TableNameOnly=MOSFET$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
