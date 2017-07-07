@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matt.sterling\Documents\MSS\library\trunk\Data\Resistors.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Matt\Documents\Projects\libraries.git\trunk\Data\Resistors.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -11,7 +11,7 @@ RightQuote=]
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
-LibraryDatabaseType=Microsoft Excel 2007
+LibraryDatabaseType=Microsoft Excel
 LibraryDatabasePath=..\Data\Resistors.xlsx
 DatabasePathRelative=1
 TopPanelCollapsed=0
@@ -26,45 +26,30 @@ TableName=POTS-9MM$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=318|Library Ref0=117|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Local Part Number0=116|Component Type0=110|Package0=74|Value0=52|Tolerance0=72|Power0=55|Taper0=51|Detent0=58|Adjustment0=82|Bushing0=82|Composition0=89|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
 [Table2]
 SchemaName=
 TableName=PTH-Carbon Film 5%$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Local Part Number0=116|Description0=125|Library Ref0=77|Library Path0=151|Footprint Ref 10=101|Footprint Path 10=130|Footprint Ref 20=101|Footprint Path 20=130|Footprint Ref 30=101|Footprint Path 30=130|Component Type0=110|Package0=102|Value0=52|Tolerance0=72|Power0=55|Composition0=89|Manufacturer 10=137|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=137|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
 [Table3]
 SchemaName=
 TableName=PTH-Metal Film 1%$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Local Part Number0=116|Description0=180|Library Ref0=77|Library Path0=151|Component Type0=110|Package0=96|Value0=52|Tolerance0=72|Power0=55|Composition0=89|Footprint Ref 10=101|Footprint Path 10=130|Footprint Ref 20=101|Footprint Path 20=130|Footprint Ref 30=101|Footprint Path 30=130|Manufacturer 10=137|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=137|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
 [Table4]
 SchemaName=
 TableName=ThickFilm-0402$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Local Part Number0=116|Description0=189|Library Ref0=77|Footprint Ref0=92|Footprint Path0=130|Library Path0=151|Component Type0=110|Package0=65|Value0=52|Tolerance0=72|Power0=55|Composition0=89|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=116|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
 [Table5]
 SchemaName=
 TableName=ThickFilm-0603$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Local Part Number0=116|Description0=189|Library Ref0=77|Footprint Ref0=92|Footprint Path0=130|Library Path0=151|Component Type0=110|Package0=65|Value0=52|Tolerance0=72|Power0=55|Composition0=89|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=116|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
 [FieldMap1]
 Options=FieldName=POTS-9MM$.Description|TableNameOnly=POTS-9MM$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
