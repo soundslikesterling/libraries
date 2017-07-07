@@ -1,4 +1,3 @@
-Bourns					12mm pots	
 Alps					16mm pots	
 Alps 	3310 Series				9mm CP pots	
 Bourns	RK271 Series				Super Nice Pot	
@@ -8,10 +7,7 @@ Switchcraft	91/95/96 series				5/8" CP element
 Qualtek					Guitars or something	
 CW Industries						
 
-
-Linear Pots 45mm 1K / 10K/ 100K Bournes PTA series
-Linear Pots 60mm 1K / 10K / 100K
 Linear Pots 100mm 1K / 10K/ 100K
 
 Dual Rotary Pots Bourns PTV112
-PTD90
+Bourns PTD90 (small dual pot)
