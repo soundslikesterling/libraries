@@ -1,6 +1,3 @@
-Alps						
-Alpha						
-Alpha	RK09K	Bourns	PTV09		Compact 9mm pots w/plastic shaft	Potentiometer 10K Linear 20%
 Bourns					12mm pots	
 Alps					16mm pots	
 Alps 	3310 Series				9mm CP pots	
@@ -17,3 +14,4 @@ Linear Pots 60mm 1K / 10K / 100K
 Linear Pots 100mm 1K / 10K/ 100K
 
 Dual Rotary Pots Bourns PTV112
+PTD90
