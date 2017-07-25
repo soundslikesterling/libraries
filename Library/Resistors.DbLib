@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Matt\Documents\Projects\libraries.git\trunk\Data\Resistors.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matt.sterling\Documents\MSS\library\trunk\Data\Resistors.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -11,7 +11,7 @@ RightQuote=]
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
-LibraryDatabaseType=Microsoft Excel
+LibraryDatabaseType=Microsoft Excel 2007
 LibraryDatabasePath=..\Data\Resistors.xlsx
 DatabasePathRelative=1
 TopPanelCollapsed=0
@@ -19,110 +19,184 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=POTS-9MM$
+LastFocusedTable=POTS-SLIDE$
 [Table1]
+SchemaName=
+TableName=Generic$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Component Type0=128|Package0=102|Value0=72|Tolerance0=72|Power0=55|Taper0=70|Detent0=58|Adjustment0=82|Bushing0=66|Gang0=51|Composition0=89|Description0=190|Library Ref0=117|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
+[Table2]
+SchemaName=
+TableName=POTS-12MM$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Component Type0=110|Package0=74|Value0=52|Tolerance0=72|Power0=55|Taper0=51|Detent0=58|Adjustment0=82|Bushing0=66|Gang0=51|Composition0=89|Description0=267|Library Ref0=109|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
+[Table3]
 SchemaName=
 TableName=POTS-9MM$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table2]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=318|Library Ref0=117|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Local Part Number0=116|Component Type0=110|Package0=74|Value0=52|Tolerance0=72|Power0=55|Taper0=51|Detent0=58|Adjustment0=82|Bushing0=82|Gang0=51|Composition0=89|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
+[Table4]
+SchemaName=
+TableName=POTS-SLIDE$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Component Type0=110|Package0=74|Value0=52|Tolerance0=72|Power0=55|Taper0=51|Detent0=58|Stroke Length0=95|Gang0=51|Composition0=89|Description0=248|Library Ref0=117|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
+[Table5]
 SchemaName=
 TableName=PTH-Carbon Film 5%$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table3]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Description0=125|Library Ref0=77|Library Path0=151|Footprint Ref 10=101|Footprint Path 10=130|Footprint Ref 20=101|Footprint Path 20=130|Footprint Ref 30=101|Footprint Path 30=130|Component Type0=110|Package0=102|Value0=52|Tolerance0=72|Power0=55|Composition0=89|Manufacturer 10=137|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=137|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
+[Table6]
 SchemaName=
 TableName=PTH-Metal Film 1%$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table4]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Description0=180|Library Ref0=77|Library Path0=151|Footprint Ref 10=101|Footprint Path 10=130|Footprint Ref 20=101|Footprint Path 20=130|Footprint Ref 30=101|Footprint Path 30=130|Component Type0=110|Package0=96|Value0=52|Tolerance0=72|Power0=55|Composition0=89|Manufacturer 10=137|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=137|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
+[Table7]
 SchemaName=
 TableName=ThickFilm-0402$
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table5]
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Description0=189|Library Ref0=77|Footprint Ref0=92|Footprint Path0=130|Library Path0=151|Component Type0=110|Package0=65|Value0=52|Tolerance0=72|Power0=55|Composition0=89|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=116|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
+[Table8]
 SchemaName=
 TableName=ThickFilm-0603$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Description0=189|Library Ref0=77|Footprint Ref0=92|Footprint Path0=130|Library Path0=151|Component Type0=110|Package0=65|Value0=52|Tolerance0=72|Power0=55|Composition0=89|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=116|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
 [FieldMap1]
-Options=FieldName=POTS-9MM$.Description|TableNameOnly=POTS-9MM$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Generic$.Local Part Number|TableNameOnly=Generic$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
-Options=FieldName=POTS-9MM$.Library Ref|TableNameOnly=POTS-9MM$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Generic$.Description|TableNameOnly=Generic$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap3]
-Options=FieldName=POTS-9MM$.Library Path|TableNameOnly=POTS-9MM$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Generic$.Library Ref|TableNameOnly=Generic$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap4]
-Options=FieldName=POTS-9MM$.Footprint Ref|TableNameOnly=POTS-9MM$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Generic$.Library Path|TableNameOnly=Generic$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap5]
-Options=FieldName=POTS-9MM$.Footprint Path|TableNameOnly=POTS-9MM$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Generic$.Footprint Ref|TableNameOnly=Generic$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap6]
-Options=FieldName=POTS-9MM$.Local Part Number|TableNameOnly=POTS-9MM$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Generic$.Footprint Path|TableNameOnly=Generic$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap7]
-Options=FieldName=PTH-Carbon Film 5%$.Local Part Number|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=POTS-12MM$.Local Part Number|TableNameOnly=POTS-12MM$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap8]
-Options=FieldName=PTH-Carbon Film 5%$.Description|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=POTS-12MM$.Description|TableNameOnly=POTS-12MM$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap9]
-Options=FieldName=PTH-Carbon Film 5%$.Library Ref|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=POTS-12MM$.Library Ref|TableNameOnly=POTS-12MM$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap10]
-Options=FieldName=PTH-Carbon Film 5%$.Library Path|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=POTS-12MM$.Footprint Ref|TableNameOnly=POTS-12MM$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap11]
-Options=FieldName=PTH-Carbon Film 5%$.Footprint Ref 1|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=POTS-12MM$.Footprint Path|TableNameOnly=POTS-12MM$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap12]
-Options=FieldName=PTH-Carbon Film 5%$.Footprint Path 1|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Footprint Path 1|FieldType=1|ParameterName=[Footprint Path 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=POTS-9MM$.Description|TableNameOnly=POTS-9MM$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap13]
-Options=FieldName=PTH-Carbon Film 5%$.Footprint Ref 2|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=POTS-9MM$.Library Ref|TableNameOnly=POTS-9MM$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap14]
-Options=FieldName=PTH-Carbon Film 5%$.Footprint Path 2|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=POTS-9MM$.Library Path|TableNameOnly=POTS-9MM$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap15]
-Options=FieldName=PTH-Carbon Film 5%$.Footprint Ref 3|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=POTS-9MM$.Footprint Ref|TableNameOnly=POTS-9MM$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap16]
-Options=FieldName=PTH-Carbon Film 5%$.Footprint Path 3|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=POTS-9MM$.Footprint Path|TableNameOnly=POTS-9MM$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap17]
-Options=FieldName=PTH-Metal Film 1%$.Local Part Number|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=POTS-9MM$.Local Part Number|TableNameOnly=POTS-9MM$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap18]
-Options=FieldName=PTH-Metal Film 1%$.Description|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=POTS-SLIDE$.Local Part Number|TableNameOnly=POTS-SLIDE$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap19]
-Options=FieldName=PTH-Metal Film 1%$.Library Ref|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=POTS-SLIDE$.Description|TableNameOnly=POTS-SLIDE$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap20]
-Options=FieldName=PTH-Metal Film 1%$.Library Path|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=POTS-SLIDE$.Library Ref|TableNameOnly=POTS-SLIDE$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap21]
-Options=FieldName=PTH-Metal Film 1%$.Footprint Ref 1|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=POTS-SLIDE$.Footprint Ref|TableNameOnly=POTS-SLIDE$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap22]
-Options=FieldName=PTH-Metal Film 1%$.Footprint Path 1|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Footprint Path 1|FieldType=1|ParameterName=[Footprint Path 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=POTS-SLIDE$.Footprint Path|TableNameOnly=POTS-SLIDE$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap23]
-Options=FieldName=PTH-Metal Film 1%$.Footprint Ref 2|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Carbon Film 5%$.Local Part Number|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap24]
-Options=FieldName=PTH-Metal Film 1%$.Footprint Path 2|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Carbon Film 5%$.Description|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap25]
-Options=FieldName=PTH-Metal Film 1%$.Footprint Ref 3|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Carbon Film 5%$.Library Ref|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap26]
-Options=FieldName=PTH-Metal Film 1%$.Footprint Path 3|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Carbon Film 5%$.Library Path|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap27]
-Options=FieldName=ThickFilm-0402$.Local Part Number|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Carbon Film 5%$.Footprint Ref 1|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap28]
-Options=FieldName=ThickFilm-0402$.Description|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Carbon Film 5%$.Footprint Path 1|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Footprint Path 1|FieldType=1|ParameterName=[Footprint Path 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap29]
-Options=FieldName=ThickFilm-0402$.Library Ref|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Carbon Film 5%$.Footprint Ref 2|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap30]
-Options=FieldName=ThickFilm-0402$.Footprint Ref|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Carbon Film 5%$.Footprint Path 2|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap31]
-Options=FieldName=ThickFilm-0402$.Footprint Path|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Carbon Film 5%$.Footprint Ref 3|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap32]
-Options=FieldName=ThickFilm-0402$.Library Path|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Carbon Film 5%$.Footprint Path 3|TableNameOnly=PTH-Carbon Film 5%$|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap33]
-Options=FieldName=ThickFilm-0603$.Local Part Number|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Metal Film 1%$.Local Part Number|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap34]
-Options=FieldName=ThickFilm-0603$.Description|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Metal Film 1%$.Description|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap35]
-Options=FieldName=ThickFilm-0603$.Library Ref|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Metal Film 1%$.Library Ref|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap36]
-Options=FieldName=ThickFilm-0603$.Footprint Ref|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Metal Film 1%$.Library Path|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap37]
-Options=FieldName=ThickFilm-0603$.Footprint Path|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=PTH-Metal Film 1%$.Footprint Ref 1|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap38]
+Options=FieldName=PTH-Metal Film 1%$.Footprint Path 1|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Footprint Path 1|FieldType=1|ParameterName=[Footprint Path 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=PTH-Metal Film 1%$.Footprint Ref 2|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=PTH-Metal Film 1%$.Footprint Path 2|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=PTH-Metal Film 1%$.Footprint Ref 3|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=PTH-Metal Film 1%$.Footprint Path 3|TableNameOnly=PTH-Metal Film 1%$|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=ThickFilm-0402$.Local Part Number|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=ThickFilm-0402$.Description|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=ThickFilm-0402$.Library Ref|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=ThickFilm-0402$.Footprint Ref|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=ThickFilm-0402$.Footprint Path|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=ThickFilm-0402$.Library Path|TableNameOnly=ThickFilm-0402$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=ThickFilm-0603$.Local Part Number|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=ThickFilm-0603$.Description|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=ThickFilm-0603$.Library Ref|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=ThickFilm-0603$.Footprint Ref|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=ThickFilm-0603$.Footprint Path|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
 Options=FieldName=ThickFilm-0603$.Library Path|TableNameOnly=ThickFilm-0603$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

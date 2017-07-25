@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Matt\Documents\Projects\libraries.git\trunk\Data\Electromechanical.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matt.sterling\Documents\MSS\library\trunk\Data\Electromechanical.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -11,7 +11,7 @@ RightQuote=]
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
-LibraryDatabaseType=Microsoft Excel
+LibraryDatabaseType=Microsoft Excel 2007
 LibraryDatabasePath=..\Data\Electromechanical.xlsx
 DatabasePathRelative=1
 TopPanelCollapsed=0
@@ -19,6 +19,40 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
+LastFocusedTable=Switches$
+[Table1]
+SchemaName=
+TableName=EXT-Jacks$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=EXT-Plugs$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Type0=46|Description0=82|Library Ref0=77|Library Path0=151|Footprint Ref0=92|Footprint Path0=98|Verified0=63|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|HelpURL0=67
+[Table3]
+SchemaName=
+TableName=INT-Connectors$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Type0=46|Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|Verified0=63|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142
+[Table4]
+SchemaName=
+TableName=Switches$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Type0=95|Description0=355|Library Ref0=77|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Verified0=63|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|HelpURL0=67|F140=41
 [FieldMap1]
 Options=FieldName=EXT-Jacks$.Local Part Number|TableNameOnly=EXT-Jacks$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

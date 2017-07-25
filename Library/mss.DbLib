@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Matt\Documents\Projects\libraries.git\trunk\Data\MSS_PARTS.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matt.sterling\Documents\MSS\library\trunk\Data\Mechanical.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -11,60 +11,42 @@ RightQuote=]
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
-LibraryDatabaseType=Microsoft Excel
-LibraryDatabasePath=..\Data\MSS_PARTS.xlsx
-DatabasePathRelative=1
+LibraryDatabaseType=
+LibraryDatabasePath=
+DatabasePathRelative=0
 TopPanelCollapsed=0
 LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Electromechanical$
+LastFocusedTable=Covers$
 [Table1]
 SchemaName=
-TableName=Electromechanical$
+TableName=Covers$
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table2]
 SchemaName=
-TableName=ICs$
+TableName=Enclosures$
 Enabled=True
 UserWhere=0
 UserWhereText=
 [Table3]
 SchemaName=
-TableName=Misc$
+TableName=Knobs  Caps$
 Enabled=True
 UserWhere=0
 UserWhereText=
 [FieldMap1]
-Options=FieldName=Electromechanical$.Description|TableNameOnly=Electromechanical$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Enclosures$.Part Number|TableNameOnly=Enclosures$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
-Options=FieldName=Electromechanical$.Library Ref|TableNameOnly=Electromechanical$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Enclosures$.Description|TableNameOnly=Enclosures$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap3]
-Options=FieldName=Electromechanical$.Library Path|TableNameOnly=Electromechanical$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Enclosures$.Library Ref|TableNameOnly=Enclosures$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap4]
-Options=FieldName=Electromechanical$.Footprint Ref|TableNameOnly=Electromechanical$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Enclosures$.Library Path|TableNameOnly=Enclosures$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap5]
-Options=FieldName=Electromechanical$.Footprint Path|TableNameOnly=Electromechanical$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Enclosures$.Footprint Ref|TableNameOnly=Enclosures$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap6]
-Options=FieldName=ICs$.Description|TableNameOnly=ICs$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap7]
-Options=FieldName=ICs$.Library Ref|TableNameOnly=ICs$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap8]
-Options=FieldName=ICs$.Library Path|TableNameOnly=ICs$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap9]
-Options=FieldName=ICs$.Footprint Ref|TableNameOnly=ICs$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap10]
-Options=FieldName=ICs$.Footprint Path|TableNameOnly=ICs$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap11]
-Options=FieldName=Misc$.Description|TableNameOnly=Misc$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap12]
-Options=FieldName=Misc$.Library Ref|TableNameOnly=Misc$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap13]
-Options=FieldName=Misc$.Library Path|TableNameOnly=Misc$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap14]
-Options=FieldName=Misc$.Footprint Ref|TableNameOnly=Misc$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap15]
-Options=FieldName=Misc$.Footprint Path|TableNameOnly=Misc$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Enclosures$.Footprint Path|TableNameOnly=Enclosures$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

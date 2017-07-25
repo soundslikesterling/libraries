@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Matt\Documents\Projects\libraries.git\trunk\Data\Capacitors.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matt.sterling\Documents\MSS\library\trunk\Data\Capacitors.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -11,7 +11,7 @@ RightQuote=]
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
-LibraryDatabaseType=Microsoft Excel
+LibraryDatabaseType=Microsoft Excel 2007
 LibraryDatabasePath=..\Data\Capacitors.xlsx
 DatabasePathRelative=1
 TopPanelCollapsed=0
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Ceramic-0402$
+LastFocusedTable=Film-SMT$
 [Table1]
 SchemaName=
 TableName=Ceramic-0402$
@@ -32,36 +32,54 @@ TableName=Ceramic-0603$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Description0=279|Library Ref0=77|Footprint Ref0=92|Footprint Path0=130|Library Path0=151|Component Type0=110|Component Subtype0=129|Package0=65|Value0=52|Rated Voltage0=96|Tolerance0=72|Composition0=89|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=103|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=103|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
 [Table3]
 SchemaName=
 TableName=Ceramic-0805$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Description0=279|Library Ref0=77|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Component Type0=110|Component Subtype0=129|Package0=65|Value0=52|Rated Voltage0=96|Tolerance0=72|Composition0=89|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
 [Table4]
 SchemaName=
 TableName=Electrolytic-PTH$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=391|Library Ref0=107|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Local Part Number0=116|Component Type0=110|Component Subtype0=129|Package0=122|Value0=52|Rated Voltage0=96|Tolerance0=72|Composition0=89|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=102|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142
 [Table5]
 SchemaName=
 TableName=Electrolytic-SMT$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Description0=429|Library Ref0=107|Library Path0=151|Footprint Ref0=98|Footprint Path0=130|Component Type0=110|Component Subtype0=129|Package0=160|Value0=52|Rated Voltage0=96|Tolerance0=72|Composition0=89|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 20=102|Manufacturer Part Number 20=169|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 30=103|Manufacturer Part Number 30=169|Supplier 30=75|Supplier Part Number 30=142|F260=41|F270=108|F280=46|F290=90
 [Table6]
 SchemaName=
 TableName=Film-PTH$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Description0=375|Library Ref0=77|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Component Type0=110|Component Subtype0=129|Package0=99|Value0=52|Rated Voltage0=96|Tolerance0=72|Composition0=89|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142
 [Table7]
 SchemaName=
 TableName=Film-SMT$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Local Part Number0=116|Description0=247|Library Ref0=77|Library Path0=151|Footprint Ref0=92|Footprint Path0=130|Component Type0=110|Component Subtype0=129|Package0=65|Value0=52|Rated Voltage0=96|Tolerance0=72|Composition0=89|Manufacturer 10=102|Manufacturer Part Number 10=169|Supplier 10=75|Supplier Part Number 10=142
 [FieldMap1]
 Options=FieldName=Ceramic-0402$.Local Part Number|TableNameOnly=Ceramic-0402$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -109,38 +127,40 @@ Options=FieldName=Electrolytic-PTH$.Footprint Ref|TableNameOnly=Electrolytic-PTH
 [FieldMap23]
 Options=FieldName=Electrolytic-PTH$.Footprint Path|TableNameOnly=Electrolytic-PTH$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap24]
-Options=FieldName=Electrolytic-SMT$.Local Part Number|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Electrolytic-PTH$.Local Part Number|TableNameOnly=Electrolytic-PTH$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap25]
-Options=FieldName=Electrolytic-SMT$.Description|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Electrolytic-SMT$.Local Part Number|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap26]
-Options=FieldName=Electrolytic-SMT$.Library Ref|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Electrolytic-SMT$.Description|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap27]
-Options=FieldName=Electrolytic-SMT$.Library Path|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Electrolytic-SMT$.Library Ref|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap28]
-Options=FieldName=Electrolytic-SMT$.Footprint Ref|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Electrolytic-SMT$.Library Path|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap29]
-Options=FieldName=Electrolytic-SMT$.Footprint Path|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Electrolytic-SMT$.Footprint Ref|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap30]
-Options=FieldName=Film-PTH$.Local Part Number|TableNameOnly=Film-PTH$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Electrolytic-SMT$.Footprint Path|TableNameOnly=Electrolytic-SMT$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap31]
-Options=FieldName=Film-PTH$.Description|TableNameOnly=Film-PTH$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Film-PTH$.Local Part Number|TableNameOnly=Film-PTH$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap32]
-Options=FieldName=Film-PTH$.Library Ref|TableNameOnly=Film-PTH$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Film-PTH$.Description|TableNameOnly=Film-PTH$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap33]
-Options=FieldName=Film-PTH$.Library Path|TableNameOnly=Film-PTH$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Film-PTH$.Library Ref|TableNameOnly=Film-PTH$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap34]
-Options=FieldName=Film-PTH$.Footprint Ref|TableNameOnly=Film-PTH$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Film-PTH$.Library Path|TableNameOnly=Film-PTH$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap35]
-Options=FieldName=Film-PTH$.Footprint Path|TableNameOnly=Film-PTH$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Film-PTH$.Footprint Ref|TableNameOnly=Film-PTH$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap36]
-Options=FieldName=Film-SMT$.Local Part Number|TableNameOnly=Film-SMT$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Film-PTH$.Footprint Path|TableNameOnly=Film-PTH$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap37]
-Options=FieldName=Film-SMT$.Description|TableNameOnly=Film-SMT$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Film-SMT$.Local Part Number|TableNameOnly=Film-SMT$|FieldNameOnly=Local Part Number|FieldType=0|ParameterName=Local Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap38]
-Options=FieldName=Film-SMT$.Library Ref|TableNameOnly=Film-SMT$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Film-SMT$.Description|TableNameOnly=Film-SMT$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap39]
-Options=FieldName=Film-SMT$.Library Path|TableNameOnly=Film-SMT$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Film-SMT$.Library Ref|TableNameOnly=Film-SMT$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap40]
-Options=FieldName=Film-SMT$.Footprint Ref|TableNameOnly=Film-SMT$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Film-SMT$.Library Path|TableNameOnly=Film-SMT$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap41]
+Options=FieldName=Film-SMT$.Footprint Ref|TableNameOnly=Film-SMT$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
 Options=FieldName=Film-SMT$.Footprint Path|TableNameOnly=Film-SMT$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

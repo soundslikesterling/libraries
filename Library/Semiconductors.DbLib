@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=MOSFET$
+LastFocusedTable=BJT$
 [Table1]
 SchemaName=
 TableName=BJT$
