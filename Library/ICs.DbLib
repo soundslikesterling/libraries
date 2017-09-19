@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\matt.sterling\Documents\MSS\library\trunk\Data\ICs.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Matt\Documents\Projects\libraries.git\trunk\Data\ICs.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -19,31 +19,6 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Linear$
-[Table1]
-SchemaName=
-TableName=Linear$
-Enabled=True
-UserWhere=0
-UserWhereText=
-[Table2]
-SchemaName=
-TableName=Logic$
-Enabled=True
-UserWhere=0
-UserWhereText=
-[Table3]
-SchemaName=
-TableName=Microcontroller$
-Enabled=True
-UserWhere=0
-UserWhereText=
-[Table4]
-SchemaName=
-TableName=Power$
-Enabled=True
-UserWhere=0
-UserWhereText=
 [FieldMap1]
 Options=FieldName=Linear$.Part Number|TableNameOnly=Linear$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
